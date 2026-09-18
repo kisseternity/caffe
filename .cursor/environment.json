@@ -1,0 +1,4 @@
+{
+  "name": "Caffe (CPU)",
+  "install": "bash ./.cursor/install.sh"
+}
